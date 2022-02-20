@@ -1,0 +1,6 @@
+{
+	"appId": "com.example.app",
+	"appName": "appflow-test",
+	"webDir": "dist/appflow-test",
+	"bundledWebRuntime": false
+}
