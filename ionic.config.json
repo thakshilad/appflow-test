@@ -1,7 +1,0 @@
-{
-  "name": "appflow-test",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
